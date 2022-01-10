@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+ignore.js
+data.txt
+u.js
+maincopy.js
