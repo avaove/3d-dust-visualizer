@@ -1,0 +1,19 @@
+{
+  "name": "vite-project",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node --experimental-worker main.js",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "colormap": "^2.3.2",
+    "dat.gui": "^0.7.7",
+    "stats-js": "^1.0.1",
+    "three": "^0.136.0"
+  }
+}
